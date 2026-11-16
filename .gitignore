@@ -1,0 +1,16 @@
+node_modules
+.vscode
+ggeConfig.json
+user.db
+user.db*
+package-lock.json
+assets/itemassets
+items
+ItemsVersion.properties
+lang/*
+1.xml
+test.js
+plugins-personal
+update
+plugins-extra
+website
